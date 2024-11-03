@@ -1,7 +1,7 @@
 # cybersecurity_projects
 cybersecurity projects to practice the skills as I learn them
 
-## System Information Script
+## Project 1 : System Information Script
 
 ### Description
 This Bash script provides a detailed summary of system information, including the operating system name, kernel version, CPU details, memory usage, disk space, current user, and working directory. It is a helpful tool for monitoring the status of your Linux machine.

@@ -42,6 +42,9 @@ This Bash script provides a detailed summary of system information, including th
    ```bash
    ./system_info.sh
 
+### Script Workflow
+
+```mermaid
 flowchart TD
     A[Start] --> B[Display OS & Kernel Version]
     B --> C[Show CPU Information]
@@ -50,3 +53,14 @@ flowchart TD
     E --> F[Display Current User]
     F --> G[Show Current Working Directory]
     G --> H[End]
+
+
+
+###  Screenshots 
+
+
+
+
+
+   ![System Information Script Output](images/cyber_project_1_1.png)
+

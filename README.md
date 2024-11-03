@@ -42,3 +42,11 @@ This Bash script provides a detailed summary of system information, including th
    ```bash
    ./system_info.sh
 
+flowchart TD
+    A[Start] --> B[Display OS & Kernel Version]
+    B --> C[Show CPU Information]
+    C --> D[Report Memory Usage]
+    D --> E[Show Disk Usage Summary]
+    E --> F[Display Current User]
+    F --> G[Show Current Working Directory]
+    G --> H[End]
